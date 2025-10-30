@@ -1,0 +1,422 @@
+{
+  "f9740b8396d77eeace55df1df34bea91fd518bc486e13191eadaace4e23e5ae7": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main objective and timeframe accurately, and it provides a reasonable approach to change management, although it introduces a structured quality assurance process that is not explicitly mentioned in the ideal answer."
+  },
+  "2027eaf669e281cbd98a47645eb0a7ea8f62979618369af2025b8c75a9731e18": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the contents, organization, and update basis of the P&R Hub, closely aligning with the ideal answer."
+  },
+  "49fa8c0e4b08d3f6930ac50b80095120747f03760de21e7c2da5ddfc652fe31d": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the targeted outreach model, including tailored communication, transparency, and the importance of feedback, but lacks some specific details from the ideal answer."
+  },
+  "e1b83402ad8be9cd7615b56c4599571c2327e64c3b9a75fc13981f6dff7865f7": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main points about centralizing communication and the fortnightly update mechanism, though it lacks some specific details about the recipients and the quick-questions Teams channel."
+  },
+  "49a630ec53f37812292bbe763e8586c43677cecfb6f61d86f4d447b3a79e588d": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the PRMS enhancement cycle and mentions the Sounding Board, but lacks specific details about the steps in the cycle and the exact composition of the Sounding Board."
+  },
+  "7098a987cd8f2d2ea5369b15b4622fde92a78136372e4e0a4fd2609676172ab6": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the ideal answer by emphasizing effective communication and engagement with CGIAR's Programs and Accelerators. It also adds relevant details about integration and quality assurance, which enhance the response without deviating from the main point."
+  },
+  "76f07d57468e84dbdb68aa1f628895e20507a67279ab2addc6a8748d7bdbb151": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer correctly identifies the P&R Hub as the central repository and provides additional relevant context, making it a comprehensive response."
+  },
+  "c8fb7d19cf86e5801b1381a17a24110f2364d43cbb84fe17005112d4e275e4e4": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct email addresses and context for their use, closely aligning with the ideal answer."
+  },
+  "23adba6dd6198fd412ff4db9e823423a54b6afeabbfef8d88f50e3632f76316e": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the key elements of the ideal answer, including the format and the availability of recordings, with additional context on engagement."
+  },
+  "7526ac6723a97a9fae400480ce2e120619871df4c3e07efbb4712e8e4726f74d": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately reflects the informal nature of the sessions and their focus on open dialogue, aligning closely with the ideal answer."
+  },
+  "4c21d8c420d2a82113232311036325d27b373c4b2a2da562777d4b9b86ad1dd1": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main objective and support period accurately, and it discusses change management, albeit with more detail than the ideal answer. It aligns well with the intent of the question."
+  },
+  "b3d165aac501a3ec8ba277dce3f78569daa5119a9a68510902347fce55087967": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the essence of the P&R Hub, its organization, and the basis for updates, closely aligning with the ideal answer."
+  },
+  "abad1c3b816833d55347cc2c1d1c8b279397ae5a611a2835d376e405c5dee9ce": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the targeted engagement model, including audience selection, purpose, and transparency, and aligns well with the ideal answer's focus on operational realities."
+  },
+  "e2d7d5f343729b60df574f9ba7144764dc33522d7a3d6e4252f069ea14cf06a5": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the key elements of the centralized update mechanism, including the official channel, cadence, and a general idea of the recipient list, though it lacks the full recipient list detail."
+  },
+  "b50d662d23645229e6aa1cc3f1d913639c4ec44ed2439328496e54842adb2461": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the PRMS enhancement cycle and the role of the Sounding Board, but lacks specific details and steps outlined in the ideal answer."
+  },
+  "259eee5f621f1546cc202225d8e3e87e4aa8de35848d3ab14aa21e0bdbb39a84": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer correctly identifies both email addresses and their purposes, closely aligning with the ideal answer."
+  },
+  "1537c97cdeb8cf4d930110bbae397827bc5e6398e964cc0a502de1e02c8a24e0": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer correctly identifies the Performance & Results (P&R) Hub as the central repository and provides additional relevant context about its purpose and contents, aligning well with the ideal answer."
+  },
+  "007d08a171f8b337e73edc8c91c0bffc311968ec1d9ac7a9c07e458dc8f227f4": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately reflects the key points of the ideal answer, including the timing of chat activity and the status of meeting recordings, while providing additional context about communication focus."
+  },
+  "aeeeb1ce7ec48e27222531b267c90b7333ba667e12eca261e75499547bcda1e7": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer closely aligns with the ideal answer, covering the main points about the format and availability of recordings, with slight elaboration on engagement."
+  },
+  "9e6734533f4bf39a1f44279b16f02a05cc53792801e9fb8b828c684b0677747a": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately describes the nature of the monthly drop-ins, their informal format, and the absence of formal presentations, closely aligning with the ideal answer."
+  },
+  "41d28e555b6a225fcc35175e9ede1895355ffbabbd8c1c13dda4abeda0a15283": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the evidence architecture and methods used in the report, including the number of studies and types of methodologies. It also addresses the interpretation of causality, though it lacks specific details like the best-practice score and the exact number of outcome evidence entries."
+  },
+  "c9d8d9d842bfd62c0ef099ce80188728133bf8d01146eb75b711dad39b1e22c3": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer provides relevant information about CGIAR's partnerships and initiatives, but lacks specific figures and examples that were present in the ideal answer."
+  },
+  "fcff38d9c3b247e1adc9c2e4f602945131fc78e1db8cb12ae4f3e39e348b79a6": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the IDEAL answer by mentioning the development of climate-resilient varieties and the low adoption rates, but lacks specific yield and income statistics and detailed examples of services and tools."
+  },
+  "d7f44c99785d59adb222c60016e1d92a5bb32af2787102fcc3020380b723f3bd": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer provides a close approximation of the ideal answer, stating 'over 20 million farmers' which aligns with the ideal figure of 20,114,851. It also adds valuable context about the impact areas, enhancing the response."
+  },
+  "de4ef072e5002b89337163506563aa1f223df77f0d9d76c9d8741a0c8266733b": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct total number of crop varieties and the specific counts for climate-resilient and biofortified varieties, aligning closely with the ideal answer."
+  },
+  "f491c99948e35ca320ebbdb5679e6829aeafced743282c704c8374fb4342bb4c": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the headline estimate of US$47 billion per year and provides context about CGIAR's impact, aligning well with the ideal answer."
+  },
+  "cda38c84af8d662de2eab690c6e637cd7564217e2ead107d034dcc5559ae44db": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct countries and household ranges, closely aligning with the ideal answer, though it lacks specific percentage details."
+  },
+  "059e39221eee620a31f82b4cf4842b01e4dc33881e2c2e2f89d2daa5100c292d": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer provides a relevant result from the report regarding Nigeria's solar-powered cold storage, which aligns with the ideal answer. However, it also includes additional information about Tanzania that, while relevant, diverges from the request for a single concrete result."
+  },
+  "8c25fde733f44a03dc5a3cf869fb35d8221426b5bc77e85c50aac38dbb329781": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the IDEAL answer by discussing the synthesis role of the 2024 Portfolio Narrative within CGIAR's Technical Reporting framework and its dual perspective. However, it lacks specific mention of the Results Dashboard and the exact report types (Type 1, Type 2, Type 3) as outlined in the IDEAL answer."
+  },
+  "3ba2db9429ea299da52120401fce425dd7baade0c8208d44f1ae816c8856c00b": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the key changes in the partnership landscape and mentions the relevant system shifts, aligning closely with the ideal answer, though it lacks specific percentages for co-creation and innovations."
+  },
+  "f6b9f851f5cca7940671a5e921ea783879415a148e8765a25cc7f9cc208f6f25": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct numbers for farmers and extension agents, closely aligning with the ideal answer, while also adding context about the significance of CGIAR's innovations."
+  },
+  "53a38005175f72709f94e5d508a906c9473a6b9618ae46c0fd7190f1d19664cf": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer captures all key statistics from the ideal answer, including the number of market segments, target product profiles, registered varieties, germplasm distribution, and the Seed Equal initiative, while providing additional context about CGIAR's efforts."
+  },
+  "21e80587ed137f61d16a64f419dea7eee2e16ed13110ee4d9ea418872b5971ef": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer accurately describes SNAP and its functions, aligning well with the ideal answer, though it is slightly more detailed and lacks specific page references."
+  },
+  "2f1113a6bed1f4887d74b66c810333dee8c0a29e6c39c25bc2e3b8d3ee7ef528": {
+    "sufficiently_correct": false,
+    "score": 3,
+    "notes": "The countries listed in the chatbot answer are incorrect; they do not match the ideal answer, and while some achievements are mentioned, they do not align with the specified countries."
+  },
+  "00bae0096c312ced2adf89c72a685b3dc3d2fbf93d9165db93a21696cf0767e1": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer acknowledges the lack of information, which aligns with the ideal answer's intent of addressing the question."
+  },
+  "fd6fb09672201b8fd24b6d314356a6283c68fcd3c102415e448bb95e8abe4205": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the integration process and mentions key aspects like transparency and accountability, but lacks specific details on mechanisms and principles outlined in the ideal answer."
+  },
+  "7eede0010f86577a96ea2280a79276357c4a67489bc80c580dbf65a9be55c58c": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main reporting products and their cadence accurately, though it lacks specific page references and some detail present in the ideal answer."
+  },
+  "d8057eaec8742f468f6fc00a1f4e3b2589004010c9eb200289260df372a2d919": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the major updates and their implications for MELIA, aligning well with the ideal answer, though it lacks specific details and examples from the ideal response."
+  },
+  "23c5fde6dd5dedd95c0557135983fce89f32d1a80fac6f3da17b6bb87cca492c": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the ideal answer, including the focus on addressing previous inadequacies, defining priority impact questions, and the deliverables for funders and managers. However, it lacks some specific details and phrasing from the ideal answer, which affects its completeness."
+  },
+  "b9e0497a12c4da2dfa911ff9926f7662e36a85fbce31d9975283e208cd82a102": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of CGIAR's approach and priorities, aligning well with the ideal answer, though it lacks some specific details and references."
+  },
+  "aeb0db6a629f79f92b871246859e122a82aa14ec76151f4f4064f4bc7f236160": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the purpose and approval details of TRA 25-30, closely aligning with the ideal answer, though it lacks specific page references."
+  },
+  "3ec639d62b4f7d19227858b244dbb0771c13c881972a16f9e2f9d7eaef8e0b13": {
+    "sufficiently_correct": false,
+    "score": 4,
+    "notes": "The chatbot answer provides incorrect release dates, stating April and June 2026 instead of the correct Q2 2026 timeframe."
+  },
+  "c4015f147b67ec57bf553686f4c137da85854806de5d0c4d685fabb39150a6de": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the Minimum Data Standard essentials, mentioning key components like intended impact, results, partnerships, and geographical context. However, it lacks specific details and structured fields outlined in the ideal answer, which affects its completeness."
+  },
+  "4ec706ccf843683b079fc2b0ac8172b12999cf9dbc62bb58156afce289d1866f": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer correctly identifies the timing and leadership of the mid-point review, and it captures the essence of the review's purpose, though it lacks specific mention of ROI and KPIs."
+  },
+  "1ea3d48270ad3e261a243bd9cef9cd14ec8f0f31c34e97608ad6c8aab77ac000": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the IDEAL answer by addressing the expected benefits from investments and mentioning relevant factors like location and timeframe, though it lacks the specific phrasing and detail about tunability and annual reporting."
+  },
+  "aecae89bb33a412c33501733cdc2be65afcab9b3c9444972ce2aaa236749def7": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately describes the role of the Type 3 Report within the 2024 framework and correctly states the changes for TRA 2025-30, aligning closely with the ideal answer."
+  },
+  "168151d2db53e6283984111becd245673f16a26c7a78ef7ea0ad42611ed7f0dd": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures key improvements like the PRMS Planning Module and Risk Management Module, aligning with the ideal answer's focus on enhancing usability and decision support, but lacks specific details on other improvements and their collective impact."
+  },
+  "cdd5c63db7f0a9e23126f870f5ce94824e050eed3cbbb030b1af2545a4deb995": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer captures all key elements of the ideal answer, including the number of evaluations, recommendations, acceptance posture, and status by category, while also mentioning the planned review in 2025. It is well-aligned and sufficiently detailed."
+  },
+  "44b2b74ff61febe00d20e40aee909808c6e7d9fc5f75f08f65020c63a5a66566": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main points of the ideal answer, including the increase in average readiness and the number of discontinued innovations. However, it lacks specific details about the scaling readiness metrics and the context of the bundled innovations."
+  },
+  "3508e68ebfe91a4f0223887cb4cd83da7ddca9aeff209722dc75641e368b42ab": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the ideal answer, including the establishment of the Scaling for Impact Program and the formation of the Scaling Coalition, but lacks some specific details and terminology used in the ideal answer."
+  },
+  "e5ac3634e7933f46ad05fe2c6dd5c7fd1c83c2c6d2a3d29c91822613511c7a41": {
+    "sufficiently_correct": false,
+    "score": 2,
+    "notes": "The chatbot answer does not provide any relevant information about the outputs or timeline, failing to address the question."
+  },
+  "63bbccd9f058c4c4c089d3e4452dd8fa659f2e17bdca01067ed39dc2b6d89115": {
+    "sufficiently_correct": false,
+    "score": 2,
+    "notes": "The chatbot answer does not provide any relevant information about the funding covered in 2024 Technical Reporting, failing to address the question."
+  },
+  "9e6f17d2f38520fa0250de2d360bea8b5f3e64938299d745e060264e5c72d8d8": {
+    "sufficiently_correct": false,
+    "score": 2,
+    "notes": "The chatbot answer does not provide any relevant information about the total revenue or the funding source split, which is essential to the question."
+  },
+  "0fbe3da4476e116b4e16fa6188e37e704ae4a94c0d0af51b2d22df4875f1b663": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately describes SNAP and its functions, aligning closely with the ideal answer while providing additional context about its application and future integration."
+  },
+  "43b9107284db1b71f0e9a56141e31e9e51dd5228a9f102695370e70698a1746a": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately provides the number of children in Kenya and mentions the expansion to Tanzania and Malawi, aligning closely with the ideal answer."
+  },
+  "cfa6e48df1c3d20e2d6311d824762ea1af90a691616ac387c14bf911d1644b7c": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the ideal answer, including the focus on streamlined reporting, integration of W3/bilateral projects, and key deliverables. However, it lacks some specific details and clarity found in the ideal answer."
+  },
+  "8ef7e07373d2c6d4779bd6402d9845e250fc1634016d3895204546e675020cd1": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main steps of the process and the reuse of QA'ed data, aligning closely with the ideal answer, though it lacks some specific details and context."
+  },
+  "2ba4d0a7082de9e47bdbd373268ced6c6b1b5f78be4857b22e3e8f8618c577aa": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main points of the ideal answer, including the transition year, the specific OKRs for 2026 and 2027, and the focus on SMART KPIs, but lacks some detail and specificity in the timeline and metrics."
+  },
+  "f4da581bf8aa4ebb1abf8cebb2db2c1ec28f844233d612aabc80ae5409655905": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer accurately identifies the primary and secondary audiences and outlines the key system shifts in TRA 2025–30, closely aligning with the ideal answer's content and intent."
+  },
+  "a9d2fded8b413e78ee60064c6a202f11c8263b32b6e5d48d297d5cfd00243a8d": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer correctly identifies the approving body and the date, but adds extra details about the TRA that, while informative, are not necessary to answer the question."
+  },
+  "717e4ac1885df8ca7c843491d53154f864a83ccc4fb0c6dce9ce7706dec7880b": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct delivery dates and additional context about the reporting process, aligning well with the ideal answer."
+  },
+  "a4a2eba5aefb0b2293aae67e815b91a6c7a1e2ab475d5e77a8d97e8a41b2220b": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer correctly identifies the timing of QA and its importance, closely aligning with the ideal answer's key points about data quality, reliability, and reporting products."
+  },
+  "fe3d89a6dded3ba58c9c25b1b5b901252dfb343b13b5e3f925c6e0d70efc9457": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the key elements of the ideal answer, including the AI-generated draft, pre-filled text, analytics, templates, guidance, and resources from the P&R Hub, while also providing additional context about the support's purpose."
+  },
+  "6606d022921e4430d63e372db5c47ae651c3736e8dfe9c96fa04fe899bbf6a41": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer provides the correct email addresses and context for inquiries, closely aligning with the ideal answer."
+  },
+  "7f01242713720d08430420e6d0ad275e0103d13f97912b8a57063bcd6534b825": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately captures the key elements of the ideal answer, including the integration of ToCs, PoRB, MELIA, and timelines for deliverables, while providing specific dates and processes. It is comprehensive and aligns closely with the ideal response."
+  },
+  "b739eb67ee19a2b9c99f5986d24f6c0a620fc6cca9823c88ced40b490c25766d": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the main roles of Programs/Accelerators, Centers, and PPU in PRMS reporting and QA, but lacks specific details about internal validation and the timeline for QA review mentioned in the ideal answer."
+  },
+  "c2b47df9edb4cba87daa7af32fe72015aba99192f748b7734f297b06828b802e": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the key systemic changes and identifies the primary and secondary reporting audiences, aligning closely with the ideal answer's content and intent."
+  },
+  "614608134dbc38bb7f3f7688f6da3a6a8c4024fbb58e957c2e74bd9578d0117d": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer captures the key engagement mechanisms and addresses concerns about reporting windows effectively, closely aligning with the ideal answer."
+  },
+  "6fb380c9439cae0b2e1e0bcf769184eb78d4802e15d2e0bd59f607444a202cf0": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer captures the main points of the ideal answer, including the integration of the top 80% of projects, the lack of W3 targets in 2025, and the shift to KPI-level monitoring in 2026. It is detailed and aligns closely with the ideal response, though it lacks some specific indicative OKRs mentioned in the ideal answer."
+  },
+  "b03361f722c05766bbb48348021e583529de9a4ec8633383eced085d095ec576": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer provides a timeframe (November) and acknowledges that the exact date is still to be confirmed, aligning well with the ideal answer's intent."
+  },
+  "7b3f0c52266dc3e34b5b825a6f1b4a44d81218b4eef1a0a9955345106cdbd3e6": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer correctly states the date for quality assurance as February 2026 and provides additional relevant context, enhancing the response without deviating from the core answer."
+  },
+  "74859c09e3216567a8744954a51663796e48effabd3cc76052de0b5d29513d08": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the ideal answer, including the AI-generated draft, templates, and guidance, but adds extra details about responsibilities and submission timelines that are not in the ideal answer."
+  },
+  "3c275b5fe3cb8519c6bbbcb63b7f1800c6c6f57550d2650147d358736e5afdaa": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer correctly identifies the Performance & Results Hub as the location for the latest information and session recordings, aligning well with the ideal answer. However, it lacks the specific mention of the Session 1 recording being posted later today and shared by email by week's end, which is a key detail in the ideal answer."
+  },
+  "8cdd5340d7acb730559ba9cb8db6ea185c2d19793caa1bcaabe7c28e2d67b4f0": {
+    "sufficiently_correct": false,
+    "score": 4,
+    "notes": "The chatbot provides a different email address and additional contact, which may confuse the user. It does not mention the response time, which is a key detail in the ideal answer."
+  },
+  "9bd6ad6bff52ac84e42fcac6d4009fe86c7adf4d4d4042c6b6ed75e86df28e91": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main elements of the ideal answer, including mapping projects, using the Minimum Data Standard, and planning for KPI-based reporting in 2026, but lacks some specific details and structure."
+  },
+  "f41d6152ee7189926c45a10ec7b6c1147e93755c1501eed10b586caa86a2965b": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main phases and responsibilities of the reporting cycle, aligning closely with the ideal answer, though it lacks some specific details like the PRMS reporting window and Pause & Reflect timing."
+  },
+  "2d25c836c2fe23f83d364b3b3d2fc6270f3120e01b260410fb40525b4457d7a9": {
+    "sufficiently_correct": true,
+    "score": 9,
+    "notes": "The chatbot answer accurately reflects the key points of the ideal answer regarding costs and IP, and provides actionable advice for teams, maintaining alignment with the original intent."
+  },
+  "72c734d4f068cee4521fbdb9d97b25abce057748a534e7b857b366a0bf84db0f": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the essence of the IDEAL answer by addressing the lighter reporting load and stronger impact focus, as well as identifying the primary and secondary audiences. However, it lacks some specific details and terminology from the IDEAL answer, which affects its completeness."
+  },
+  "1473880d386115b3c9485ef84b7c58f1a78c2b2d11c6a5b4335908486dc5c657": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the onboarding model and support for new users, mentioning materials and sessions, but lacks specific details about role assignments and the live access list."
+  },
+  "038b80abe749efaeca67fb7a86d0f2245079151459aee88c6695059b95b9c1c6": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer includes most of the core sections mentioned in the ideal answer and provides additional relevant details, though it slightly diverges in wording and includes extra information not present in the ideal answer."
+  },
+  "2f7a90aa00d80705a492dbe0475ba256fc9b8ace32415ae4ce38c23242cf0238": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer correctly identifies the Performance & Results Hub as the one-stop shop and provides relevant information about reporting resources. However, it inaccurately describes the communication channel for questions, focusing on bi-weekly emails instead of the specified email addresses for direct inquiries."
+  },
+  "f8af0ff79ffc5687637154b6d12a34eed8e3b503f9c8887b5f16ac63cc0ff6ad": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer correctly identifies the due months for the Annual Technical Reports and the Portfolio Narrative, aligning closely with the ideal answer, but includes additional context that is not necessary."
+  },
+  "00ee62dec4c4564689bd2d64676a5df1e768dc72717af75cdbddc565f7b08c83": {
+    "sufficiently_correct": true,
+    "score": 7,
+    "notes": "The chatbot answer captures the essence of the support expected, mentioning bi-weekly emails and a central repository, but lacks specific details on targeted PRMS testing and live drop-ins."
+  },
+  "a2dd22ca1732c0c89392a810e7fc15c3294d45d0a21ce00bcd876a9a3f79bba1": {
+    "sufficiently_correct": true,
+    "score": 8,
+    "notes": "The chatbot answer captures the main target of including the top 80% of projects and mentions the transition to KPI-based planning, aligning well with the ideal answer, though it adds extra details about data standards and alignment with broader frameworks."
+  }
+}

@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit
+openai
+scikit-learn
+numpy
+sentence-transformers
+torch
+
+# Document processing
+pypdf
+python-docx
+python-pptx
+
+# Excel handling
+openpyxl
+
+# Type hints support
+typing-extensions
+
+# Data structures
+dataclasses

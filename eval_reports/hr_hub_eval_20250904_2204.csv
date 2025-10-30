@@ -1,0 +1,90 @@
+id,question,ideal_answer,model_answer,similarity,coverage,support,clarity,reliability,correct
+1,uuuuu mmmmm eeeee nnnnn ttttt )))))1 67890 11,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,57.48,70.0,18.5,False
+2,12,,I cannot find information in the provided chunks to answer this.,0.0,0.0,58.03,40.0,15.61,False
+3,13,,I cannot find information in the provided chunks to answer this.,0.0,0.0,21.73,40.0,8.35,False
+4,14 15 16 17,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,29.64,70.0,12.93,False
+5,18 19 20 21 c2a7cd23b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,40.2,40.0,12.04,False
+6,22 c2a7cd23b,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,42.95,70.0,15.59,False
+7,23 c2a7cd23b,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,37.42,70.0,14.48,False
+8,c2a7cd2234b 25 c2a7cd23b,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,74.77,70.0,21.95,False
+9,c2a7cd2236b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+10,c2a7cd2237b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+11,c2a7cd2238b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+12,c2a7cd2239b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+13,c2a7cd2330b,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+14,b54c8bd3e12,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+15,32 b54c8bde2,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,71.36,70.0,21.27,False
+16,33 b54c8bde2,,I cannot find information in the provided chunks to answer this.,0.0,0.0,42.97,40.0,12.59,False
+17,34 b54c8bde2,,I cannot find information in the provided chunks to answer this.,0.0,0.0,53.91,40.0,14.78,False
+18,35 b54c8bde2,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,50.27,70.0,17.05,False
+19,b54c8bd3e62,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+20,b54c8bd3e72,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+21,b54c8bd3e82,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+22,bb5544cc88bbdd 3 4ee 9 022,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,8.05,70.0,8.61,False
+23,- 41 echnical-Re,,"The context discusses the technical reporting process within the CGIAR System Organization, highlighting the importance of keeping directors informed and the involvement of various focal points in the information sessions. It mentions the use of tools to streamline the reporting process, aiming for efficiency and quality in the narrative development. Additionally, there are suggestions for onboarding new directors and projects to enhance understanding of performance and results management systems. 
+
+Sources:
+File — Location — Cited IDs
+docx:2025 Technical Reporting Information (Session 2).docx — p42 — docx:2025 Technical Reporting Information (Session 2).docx:p42
+docx:2025 Technical Reporting Information (Session 2).docx — p41 — docx:2025 Technical Reporting Information (Session 2).docx:p41
+docx:2025 Technical Reporting Information (Session 2).docx — p43 — docx:2025 Technical Reporting Information (Session 2).docx:p43
+docx:2025 Technical Reporting Information (Session 1).docx — p29 — docx:2025 Technical Reporting Information (Session 1).docx:p29
+docx:2025 Technical Reporting Information (Session 2).docx — p44 — docx:2025 Technical Reporting Information (Session 2).docx:p44",0.0,0.0,40.55,100.0,18.11,False
+24,42 echnical-Re,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,44.48,70.0,15.9,False
+25,43 echnical-Re,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,40.34,70.0,15.07,False
+26,44 echnical-Re,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,45.99,70.0,16.2,False
+27,45 echnical-Re,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,31.8,70.0,13.36,False
+28,echnical4-R6e,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+29,echnical4-R7e,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+30,48 echnical-Re,,I cannot find information in the provided chunks to answer this.,0.0,0.0,55.03,40.0,15.01,False
+31,echnical4-R9e,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+32,echnical5-R0e,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+33,24Repor5t1.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+34,52 24Report.p,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,18.58,70.0,10.72,False
+35,53 24Report.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,100.0,40.0,24.0,False
+36,54 24Report.p,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,33.55,70.0,13.71,False
+37,24Repor5t5.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+38,24Repor5t6.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+39,24Repor5t7.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+40,24Repor5t8.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+41,24Repor5t9.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+42,24Repor6t0.p,,I cannot find information in the provided chunks to answer this.,0.0,0.0,0.0,40.0,4.0,False
+43,61 G9wVkCCBq,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,12.78,70.0,9.56,False
+44,62 G9wVkCCBq,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,18.66,70.0,10.73,False
+45,63 G9wVkCCBq 64 G9wVkCCBq 65 G9wVkCCBq G9wVkCC66Bq G9wVkCC67Bq G9wVkCC68Bq G9wVkCC69Bq G9wVkCC70Bq,,"I cannot find information in the provided chunks to answer this.  
+Sources:  
+File — Location — Cited IDs",0.0,0.0,18.08,70.0,10.62,False
+46,71 _layouts/15 _layouts7/125 73 _layouts/15 74 _layouts/15 75 _layouts/15 _layouts7/165 _layouts7/175 _layouts7/185 _layouts7/195 _layouts8/105,,I cannot find information in the provided chunks to answer this.,0.0,0.0,14.15,40.0,6.83,False
+47,81 _layouts/15 _layouts8/125 _layouts8/135,,I cannot find information in the provided chunks to answer this.,0.0,0.0,15.57,40.0,7.11,False

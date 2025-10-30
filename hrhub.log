@@ -1,0 +1,8 @@
+2025-09-09 19:33:01,711 INFO Logging initialized level=INFO file=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results/hrhub.log
+2025-09-09 19:33:01,784 INFO SCAN start root=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results max_files=6 max_total_chunks=600
+2025-09-09 19:33:01,784 INFO SCAN dir=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results/Latest Updates files=4 mem=215.5MB
+2025-09-09 19:33:01,784 INFO SCAN file=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results/Latest Updates/Engagement Plan 2025 Technical Reporting.docx
+2025-09-09 19:33:01,799 INFO SCAN ok file=Engagement Plan 2025 Technical Reporting.docx chunks=63 total_chunks=63 mem=218.9MB
+2025-09-09 19:33:01,800 INFO SCAN file=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results/Latest Updates/Engagement Plan 2025 Technical Reporting.pptx
+2025-09-09 19:33:01,808 INFO SCAN ok file=Engagement Plan 2025 Technical Reporting.pptx chunks=3 total_chunks=66 mem=222.2MB
+2025-09-09 19:33:01,808 INFO SCAN file=/Users/alejandramelgarejo/Cursor/Chatbot - CURSOR - Performance & Results/Latest Updates/CGIAR-Technical-Reporting-Arrangement-2025-30.pdf
