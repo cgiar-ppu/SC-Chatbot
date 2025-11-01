@@ -374,6 +374,35 @@ def read_pptx_chunks(path: str) -> List[Chunk]:
         return []
 
 
+def read_excel_chunks(path: str) -> List[Chunk]:
+    try:
+        df = pd.read_excel(path, engine='openpyxl')
+        required_columns = ['Decision', 'Date(s)']
+        if not all(col in df.columns for col in required_columns):
+            return []
+        chunks = []
+        basename = os.path.basename(path)
+        for index, row in df.iterrows():
+            decision = str(row['Decision']).strip()
+            dates = str(row['Date(s)']).strip()
+            text = f"Decision: {decision}\nDate(s): {dates}"
+            location = f"row {index + 1}"
+            chunk_id = f"xlsx:{basename}:row{index+1}"
+            chunks.append(
+                Chunk(
+                    text=text,
+                    source_path=path,
+                    source_name=basename,
+                    kind="xlsx",
+                    location=location,
+                    id=chunk_id,
+                )
+            )
+        return chunks
+    except Exception:
+        return []
+
+
 def create_overlapped_chunks(unit_texts: List[str], unit_locations: List[str], basename: str, kind: str, path: str, window_size: int = 4, overlap: int = 1) -> List[Chunk]:
     chunks: List[Chunk] = []
     step = window_size - overlap
@@ -421,9 +450,10 @@ def create_overlapped_chunks(unit_texts: List[str], unit_locations: List[str], b
 
 
 def load_corpus(root_dir: str) -> List[Chunk]:
-    supported_ext = {".pdf", ".docx", ".pptx"}
+    supported_ext = {".pdf", ".docx", ".pptx", ".xlsx"}
     chunks: List[Chunk] = []
-    for dirpath, _, filenames in os.walk(root_dir):
+    latest_updates_dir = os.path.join(root_dir, 'Latest Updates')
+    for dirpath, _, filenames in os.walk(latest_updates_dir):
         for fname in filenames:
             ext = os.path.splitext(fname)[1].lower()
             if ext not in supported_ext:
@@ -442,6 +472,8 @@ def load_corpus(root_dir: str) -> List[Chunk]:
                     new_chunks = read_docx_chunks(abspath)
                 elif ext == ".pptx":
                     new_chunks = read_pptx_chunks(abspath)
+                elif ext == ".xlsx":
+                    new_chunks = read_excel_chunks(abspath)
             except Exception:
                 continue
             chunks.extend(new_chunks)
@@ -734,7 +766,7 @@ def evaluate_top_sources(output: str, ranked: List[Tuple[Chunk, float]]) -> List
 
 def load_sources_reference_map(project_root: str) -> Dict[str, Dict[str, str]]:
     
-    excel_path = os.path.join(project_root, 'reference', 'Sources - P&R Hub 1.xlsx')
+    excel_path = os.path.join(project_root, 'reference', 'Sources - NEW 1-1.xlsx')
     if not os.path.exists(excel_path):
         return {}
     
@@ -758,6 +790,11 @@ def load_sources_reference_map(project_root: str) -> Dict[str, Dict[str, str]]:
 
 def render_sources_leaderboard(ranked: List[Tuple[Chunk, float]], sources_ref_map: Dict[str, Dict[str, str]], top_sources: Optional[List[str]] = None):
 
+    # Filter map to only include sources from Latest Updates
+    latest_updates_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Latest Updates')
+    latest_files = set(os.listdir(latest_updates_dir))
+    filtered_map = {k: v for k, v in sources_ref_map.items() if k in latest_files or v['title'] in latest_files}
+
     if top_sources and len(top_sources) > 0:
         ordered = [(name, 1) for name in top_sources]
     else:
@@ -776,7 +813,7 @@ def render_sources_leaderboard(ranked: List[Tuple[Chunk, float]], sources_ref_ma
 
     rows: List[Tuple[str, str]] = []
     for name_download, _cnt in ordered:
-        meta = sources_ref_map.get(name_download.lower()) if sources_ref_map else None
+        meta = filtered_map.get(name_download.lower()) if filtered_map else None
         title = meta['title'] if meta and meta.get('title') else name_download
         pr_ref = meta['ref'] if meta and meta.get('ref') else ''
         rows.append((title, pr_ref))
@@ -787,7 +824,7 @@ def render_sources_leaderboard(ranked: List[Tuple[Chunk, float]], sources_ref_ma
     # Build Markdown/HTML leaderboard with two columns and horizontal borders
     parts: List[str] = []
     parts.append('<style>.leaderboard{width:100%;border-collapse:collapse;margin:.5rem 0}.leaderboard thead th{font-size:.9rem;text-align:left;padding:.4rem 0;border-bottom:2px solid var(--border)}.leaderboard tbody tr{border-top:1px solid var(--border)}.leaderboard tbody td{padding:.5rem 0;font-size:.9rem}.leaderboard .title{font-weight:600}.leaderboard .ref{color:var(--muted)}</style>')
-    parts.append('<table class="leaderboard"><thead><tr><th>Document Title</th><th>P&R Hub reference</th></tr></thead><tbody>')
+    parts.append('<table class="leaderboard"><thead><tr><th>Document Title</th><th>Reference</th></tr></thead><tbody>')
     for title, pr_ref in rows:
         safe_title = html.escape(title)
         safe_ref = html.escape(pr_ref) if pr_ref else '&#8212;'
@@ -819,9 +856,9 @@ def render_app() -> None:
     st.markdown("""
         <div class="brand-hero">
             <h1 style="font-size: 2.375rem; text-align: center;">System Council Chatbot</h1>
-            <p style="font-size: 1rem; text-align: justify;"><strong>PURPOSE: </strong>This ChatBot is designed to support stakeholders of the CGIAR System Council by providing fast, searchable access to governance materials on the System Council (mandates, meeting agendas and minutes, decisions and resolutions, policies, membership rules, and guidance). Its purpose is to help users find authoritative governance documents, interpret System Council decisions, locate relevant contacts and procedures, and streamline governance-related reporting and follow-up.</p>
+            <p style="font-size: 0.5rem; text-align: justify;"><strong>PURPOSE: </strong>This ChatBot is designed to support stakeholders of the CGIAR System Council by providing fast, searchable access to governance materials on the System Council (mandates, meeting agendas and minutes, decisions and resolutions, policies, membership rules, and guidance). Its purpose is to help users find authoritative governance documents, interpret System Council decisions, locate relevant contacts and procedures, and streamline governance-related reporting and follow-up.</p>
             <p style="margin-bottom: 1rem;"></p>
-            <p style="font-size: 1rem; text-align: justify;"><strong>ACKNOWLEDGMENT: </strong>This ChatBot uses Artificial Intelligence (AI) to understand questions and provide automated responses. While the models have been tested to ensure reliable and accurate information, AI-generated answers may occasionally contain errors or inaccuracies. If a response appears incorrect or unclear, please always refer to the official information available on the P&R Hub.</p>
+            <p style="font-size: 0.5rem; text-align: justify;"><strong>ACKNOWLEDGMENT: </strong>This ChatBot uses Artificial Intelligence (AI) to understand questions and provide automated responses. While the models have been tested to ensure reliable and accurate information, AI-generated answers may occasionally contain errors or inaccuracies. If a response appears incorrect or unclear, please always refer to the official information available on the P&R Hub.</p>
         </div>
     """, unsafe_allow_html=True)
 
@@ -860,6 +897,11 @@ def render_app() -> None:
             embeddings = build_embeddings_index(chunks)
             with open(index_file, 'wb') as f:
                 pickle.dump({'chunks': chunks, 'embeddings': embeddings}, f)
+
+    # Export chunks to Excel
+    chunks_excel = os.path.join(project_root, 'chunks.xlsx')
+    chunks_df = pd.DataFrame([c.__dict__ for c in chunks])
+    chunks_df.to_excel(chunks_excel, index=False)
 
     num_chunks = len(chunks)
 
