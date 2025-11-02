@@ -856,9 +856,9 @@ def render_app() -> None:
     st.markdown("""
         <div class="brand-hero">
             <h1 style="font-size: 2.375rem; text-align: center;">System Council Chatbot</h1>
-            <p style="font-size: 0.5rem; text-align: justify;"><strong>PURPOSE: </strong>This ChatBot is designed to support stakeholders of the CGIAR System Council by providing fast, searchable access to governance materials on the System Council (mandates, meeting agendas and minutes, decisions and resolutions, policies, membership rules, and guidance). Its purpose is to help users find authoritative governance documents, interpret System Council decisions, locate relevant contacts and procedures, and streamline governance-related reporting and follow-up.</p>
+            <p style="font-size: 1rem; text-align: justify;"><strong>PURPOSE: </strong>This ChatBot is designed to support stakeholders of the CGIAR System Council by providing fast, searchable access to governance materials on the System Council (mandates, meeting agendas and minutes, decisions and resolutions, policies, membership rules, and guidance). Its purpose is to help users find authoritative governance documents, interpret System Council decisions, locate relevant contacts and procedures, and streamline governance-related reporting and follow-up.</p>
             <p style="margin-bottom: 1rem;"></p>
-            <p style="font-size: 0.5rem; text-align: justify;"><strong>ACKNOWLEDGMENT: </strong>This ChatBot uses Artificial Intelligence (AI) to understand questions and provide automated responses. While the models have been tested to ensure reliable and accurate information, AI-generated answers may occasionally contain errors or inaccuracies. If a response appears incorrect or unclear, please always refer to the official information available on the P&R Hub.</p>
+            <p style="font-size: 1rem; text-align: justify;"><strong>ACKNOWLEDGMENT: </strong>This ChatBot uses Artificial Intelligence (AI) to understand questions and provide automated responses. While the models have been tested to ensure reliable and accurate information, AI-generated answers may occasionally contain errors or inaccuracies. If a response appears incorrect or unclear, please always refer to the official information available on the P&R Hub.</p>
         </div>
     """, unsafe_allow_html=True)
 
@@ -1024,7 +1024,7 @@ def render_app() -> None:
 
     # Footer
     st.markdown(
-        """<div class='app-footer'>If we were unable to answer your question or you require further information, please contact us at: <a href='mailto:consults@cgiar.org'>consults@cgiar.org</a></div>""",
+        """<div class='app-footer'>If we were unable to answer your question or you require further information, please contact us at: <a href='mailto:@cgiar.org'>@cgiar.org</a></div>""",
         unsafe_allow_html=True
     )
 
